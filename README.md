@@ -1,2 +1,2 @@
-# PyTorch_Exercises（self-practice）
+# PyTorch_Exercises
 Exercises from https://github.com/mrdbourke/pytorch-deep-learning
